@@ -16,3 +16,6 @@ This is my digital garden, a lonely but infinite path.
 - [Chloe's Garden](https://garden.chloeabrasada.online/)
 - [SlRvb's Site](https://slrvb.github.io/Site/)
 - [Course notes for Information Technology Advanced Theory](https://a2itnotes.github.io/quartz/)
+
+# Hall of Fame
+- [Morn for Xinyun MAO - A Great coder](https://blog.csdn.net/poem_qianmo)
